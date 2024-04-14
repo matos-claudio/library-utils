@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "MyHostApp"
 include(":app")
 include(":LibraryUtils")
+include(":login-module")
